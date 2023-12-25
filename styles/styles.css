@@ -251,7 +251,7 @@ body {
 
 a {
   text-decoration: none;
-  color: white;
+  color: whitesmoke;
 }
 
 section {
@@ -578,7 +578,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
   padding: 9px 10px;
   background-color: white;
   border-radius: 6px;
-  color: #8444df;
+  color: black;
   border: 1px solid #eee;
   -webkit-box-shadow: 0px 4px 6px rgba(134, 151, 168, 0.1);
           box-shadow: 0px 4px 6px rgba(134, 151, 168, 0.1);
@@ -924,7 +924,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
 
 footer {
   padding: 20px;
-  background-color:blueviolet;
+  background-color:white;
 }
 
 footer p {
