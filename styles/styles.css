@@ -241,7 +241,7 @@ textarea {
 body {
   font-family: 'Poppins', sans-serif;
   font-size: 125%;
-  background: #f7f7f7;
+  background: whitesmoke;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -516,7 +516,7 @@ header .heroDescription h1 {
 }
 
 header .heroDescription h1 span {
-  color: #5c15a3;
+  color: #6116ab;
 }
 
 header .heroDescription .smallBio {
@@ -528,7 +528,7 @@ header .heroDescription .smallBio {
 }
 
 header .heroDescription .smallBio span {
-  color: #8444df;
+  color: #5c15a3;
   font-size: 1.1rem;
 }
 
@@ -578,7 +578,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
   padding: 9px 10px;
   background-color: white;
   border-radius: 6px;
-  color: #8444df;
+  color: black;
   border: 1px solid #eee;
   -webkit-box-shadow: 0px 4px 6px rgba(134, 151, 168, 0.1);
           box-shadow: 0px 4px 6px rgba(134, 151, 168, 0.1);
@@ -924,7 +924,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
 
 footer {
   padding: 20px;
-  background-color:blueviolet;
+  background-color:white;
 }
 
 footer p {
